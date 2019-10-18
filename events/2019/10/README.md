@@ -6,3 +6,4 @@
 - [17 октября](/events/2019/10/2019.10.17.md) - открытое мероприятие ITSPB Recruiters c 19, регистрация: [https://www.meetup.com](https://www.meetup.com/ru-RU/SPb-IT-Recruiter/events/265527170/?isFirstPublish=true);
 - [19 октября](/events/2019/10/2019.10.19.md) - закрытое мероприятие c 19 до 00;
 - [20 октября](/events/2019/10/2019.10.20.md) - празднуем день рождения [Александра К.](https://twitter.com/mamu_eval) c 18 до 01;
+- [26 октября](/events/2019/10/2019.10.26.md) - закрытое мероприятие c 21 до 06;
