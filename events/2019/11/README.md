@@ -6,5 +6,6 @@
 - [5 ноября](/events/2019/11/2019.11.05.md) - первая встреча [клуба верстальщиков](/events/_recurrence/html-css-club.md) с 19;
 - [6 ноября](/events/2019/11/2019.11.06.md) - IV встреча Angular-разработчиков [ngУжин](/events/_recurrence/ngУжин.md) c 20;
 - [9 ноября](/events/2019/11/2019.11.09.md) - закрытое мероприятие c 17 до 01;
-- [12 ноября](/events/2019/11/2019.11.12.md) - вторая встреча [клуба верстальщиков](/events/_recurrence/html-css-club.md) с 19;
+- [12 ноября](/events/2019/11/2019.11.12.md) - II встреча [клуба верстальщиков](/events/_recurrence/html-css-club.md) с 19: «Списки» с Романом [@Realetive](https://twitter.com/Realetive) Ганиным;
 - [16 ноября](/events/2019/11/2019.11.16.md) - закрытое мероприятие c 17 до 23;
+- [19 ноября](/events/2019/11/2019.11.19.md) - III встреча [клуба верстальщиков](/events/_recurrence/html-css-club.md) с 19: «Таблицы» с Алёной [@ABatickaya](https://twitter.com/ABatickaya) Батицкой;

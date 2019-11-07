@@ -8,7 +8,8 @@
 
 ## Предстоящие встречи
 
-- [12 ноября](/events/2019/11/2019.11.12.md) - вторая встреча [клуба верстальщиков](/events/_recurrence/html-css-club.md) с 19;
+- [12 ноября](/events/2019/11/2019.11.12.md) - II встреча [клуба верстальщиков](/events/_recurrence/html-css-club.md) с 19: «Списки» с Романом [@Realetive](https://twitter.com/Realetive) Ганиным;
+- [19 ноября](/events/2019/11/2019.11.19.md) - III встреча [клуба верстальщиков](/events/_recurrence/html-css-club.md) с 19: «Таблицы» с Алёной [@ABatickaya](https://twitter.com/ABatickaya) Батицкой;
 
 ## Прошедшие встречи
 
