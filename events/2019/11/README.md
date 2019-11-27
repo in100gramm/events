@@ -10,3 +10,4 @@
 - [16 ноября](/events/2019/11/2019.11.16.md) - закрытое мероприятие c 17 до 23;
 - [19 ноября](/events/2019/11/2019.11.19.md) - III встреча [клуба верстальщиков](/events/_recurrence/html-css-club.md) с 19: «Таблицы» с Алёной [@ABatickaya](https://twitter.com/ABatickaya) Батицкой;
 - [28 ноября](/events/2019/11/2019.11.28.md) - IV встреча [клуба верстальщиков](/events/_recurrence/html-css-club.md) с 19: «Little big details (c вниманием к деталям)» с Николаем [@govorov_n](https://twitter.com/govorov_n) Говоровым;
+- [29 ноября](/events/2019/11/2019.11.29.md) - встреча петербургского отделения направления BeerPHP: [https://t.me/beerphp_spb](https://t.me/beerphp_spb) /  [tg://resolve?domain=beerphp_spb](tg://resolve?domain=beerphp_spb)

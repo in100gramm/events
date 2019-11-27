@@ -17,6 +17,7 @@
 - [16 ноября](/events/2019/11/2019.11.16.md) - закрытое мероприятие c 17 до 23;
 - [19 ноября](/events/2019/11/2019.11.19.md) - III встреча [клуба верстальщиков](/events/_recurrence/html-css-club.md) с 19: «Таблицы» с Алёной [@ABatickaya](https://twitter.com/ABatickaya) Батицкой;
 - [28 ноября](/events/2019/11/2019.11.28.md) - IV встреча [клуба верстальщиков](/events/_recurrence/html-css-club.md) с 19: «Little big details (c вниманием к деталям)» с Николаем [@govorov_n](https://twitter.com/govorov_n) Говоровым;
+- [29 ноября](/events/2019/11/2019.11.29.md) - встреча петербургского отделения направления BeerPHP: [https://t.me/beerphp_spb](https://t.me/beerphp_spb) /  [tg://resolve?domain=beerphp_spb](tg://resolve?domain=beerphp_spb)
 
 <table>
 <tr>
@@ -44,7 +45,7 @@
 |  4 |  [5](/events/2019/11/2019.11.05.md) |  [6](/events/2019/11/2019.11.06.md) |  7 |  8 |  [9](/events/2019/11/2019.11.09.md) | 10 |
 | 11 | [12](/events/2019/11/2019.11.12.md) | 13 | 14 | 15 | [16](/events/2019/10/2019.11.16.md) | 17 |
 | 18 | [19](/events/2019/10/2019.11.19.md) | 20 | 21 | 22 | 23 | 24 |
-| 25 | 26 | 27 | [28](/events/2019/11/2019.11.28.md) | 29 | 30 |  · |
+| 25 | 26 | 27 | [28](/events/2019/11/2019.11.28.md) | [29](/events/2019/11/2019.11.29.md) | 30 |  · |
 |  · |  · |  · |  · |  · |  · |  · |
 
   </td>
