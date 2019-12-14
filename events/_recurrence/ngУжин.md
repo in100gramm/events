@@ -6,6 +6,7 @@
 
 <a href="https://github.com/in100gramm/events/issues/new?assignees=Realetive&labels=&template=-----------------.md&title=%D0%9D%D0%B0%D0%B7%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5+%D0%BC%D0%B5%D1%80%D0%BE%D0%BF%D1%80%D0%B8%D1%8F%D1%82%D0%B8%D1%8F">Предложить мероприятие</a>
 
+- [19 декабря](/events/2019/12/2019.12.19.md) - V встреча Angular-разработчиков c 20;
 
 ## Прошедшие встречи
 
