@@ -8,10 +8,11 @@
 
 ## Предстоящие встречи
 
-- [28 ноября](/events/2019/11/2019.11.28.md) - IV встреча [клуба верстальщиков](/events/_recurrence/html-css-club.md) с 19: «Little big details (c вниманием к деталям)» с Николаем [@govorov_n](https://twitter.com/govorov_n) Говоровым;
+- [8 января](/events/2020/01/2020.01.08.md) - V встреча [клуба верстальщиков](/events/_recurrence/html-css-club.md) с 17: БЭМ с Романом [@Realetive](https://twitter.com/Realetive) Ганиным;
 
 ## Прошедшие встречи
 
+- [28 ноября](/events/2019/11/2019.11.28.md) - IV встреча [клуба верстальщиков](/events/_recurrence/html-css-club.md) с 19: «Little big details (c вниманием к деталям)» с Николаем [@govorov_n](https://twitter.com/govorov_n) Говоровым;
 - [19 ноября](/events/2019/11/2019.11.19.md) - III встреча [клуба верстальщиков](/events/_recurrence/html-css-club.md) с 19: «Таблицы» с Алёной [@ABatickaya](https://twitter.com/ABatickaya) Батицкой;
 - [12 ноября](/events/2019/11/2019.11.12.md) - II встреча [клуба верстальщиков](/events/_recurrence/html-css-club.md) с 19: «Списки» с Романом [@Realetive](https://twitter.com/Realetive) Ганиным;
 - [5 ноября](/events/2019/11/2019.11.05.md) - первая встреча клуба
